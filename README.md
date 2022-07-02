@@ -89,7 +89,6 @@ python3 bot.py
 Licensed under [GNU AGPL 2.0.](https://github.com/DKBOTx/TovinoBotV3/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*
 
-## Thanks to [This person](https://github.com/DKBOTx)
 
 ## Developers & Contributors👨‍💻
 
