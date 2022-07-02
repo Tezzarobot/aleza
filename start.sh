@@ -1,10 +1,10 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/TG-V4MP1R3/Alexa.git
+  git clone https://github.com/TG-V4MP1R3/Alexa-Bot.git
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /Alexa
+  git clone $UPSTREAM_REPO /Alexa-Bot
 fi
 cd /Autofilterbotv4
 pip3 install -U -r requirements.txt
