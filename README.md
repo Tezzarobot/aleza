@@ -41,7 +41,7 @@
 ## Deploy
 You can deploy this bot anywhere.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TG-V4MP1R3/Alexa-Bot )
 
 
 <details><summary>Deploy To VPS</summary>
