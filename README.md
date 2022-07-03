@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://github.com/TG-V4MP1R3/Alexa"><img src="https://img.shields.io/badge/A L E X A-purple.svg?logo="></a>
   
-## Working Of This Bot >>[click here](https://t.me/alexa_movies_bot)
+## Interface Of This Bot >>[click here](https://telegra.ph/file/f7c0a695536b02c6328c8.jpg)
 
 # ᴜsᴇ ᴛʜɪs ʀᴇᴘᴏ ᴀs ʏᴏᴜʀ`UPSTREAM_REPO`ɪɴ ʜᴇʀᴏᴋᴜ ᴀᴘᴘ. ᴀғᴛᴇʀ ᴀᴅᴅɪɴɢ ᴛʜɪs ʀᴇᴘᴏ , ʀᴇsᴛᴀʀᴛ ᴀʟʟ ᴅʏɴᴏs .
   
