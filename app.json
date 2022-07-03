@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/TG-V4MP1R3/Alexa-Bot",
-    "repository": "https://github.com/TG-V4MP1R3/Alexa-Bot",
+    "website": "https://github.com/EvamariaTG/EvaMaria",
+    "repository": "https://github.com/EvamariaTG/EvaMaria",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
