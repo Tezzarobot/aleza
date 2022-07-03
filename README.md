@@ -1,5 +1,6 @@
 <p align="center">
-<a href="https://github.com/TG-V4MP1R3/Alexa"><img src="https://img.shields.io/badge/A L E X A-purple.svg?logo="></a>
+<img src="https://telegra.ph/file/a3cd0a060bc045ab9a0a0.jpg" alt="PIC" width="250" height="140"/>
+</p>
   
 # ᴜsᴇ ᴛʜɪs ʀᴇᴘᴏ ᴀs ʏᴏᴜʀ`UPSTREAM_REPO`ɪɴ ʜᴇʀᴏᴋᴜ ᴀᴘᴘ. ᴀғᴛᴇʀ ᴀᴅᴅɪɴɢ ᴛʜɪs ʀᴇᴘᴏ , ʀᴇsᴛᴀʀᴛ ᴀʟʟ ᴅʏɴᴏs.
   
