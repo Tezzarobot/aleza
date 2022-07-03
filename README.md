@@ -2,9 +2,10 @@
 <img src="https://telegra.ph/file/a3cd0a060bc045ab9a0a0.jpg" alt="PIC" width="250" height="140"/>
 </p>
   
-# ᴜsᴇ ᴛʜɪs ʀᴇᴘᴏ ᴀs ʏᴏᴜʀ`UPSTREAM_REPO`ɪɴ ʜᴇʀᴏᴋᴜ ᴀᴘᴘ. ᴀғᴛᴇʀ ᴀᴅᴅɪɴɢ ᴛʜɪs ʀᴇᴘᴏ , ʀᴇsᴛᴀʀᴛ ᴀʟʟ ᴅʏɴᴏs.
+# 𝗡𝗼𝘁𝗲𝘀👇
+
+# ғᴏʀᴋ ᴛʜɪs ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴛʜᴇ ᴄʜᴀɴɢᴇs ʏᴏᴜ ᴡᴀɴᴛ.ᴛʜᴇɴ ᴜsᴇ ʏᴏᴜʀ ʀᴇᴘᴏ ᴀs ᴜᴘsᴛʀᴇᴀᴍ_ʀᴇᴘᴏ ɪɴ ʜᴇʀᴏᴋᴜ ᴀᴘᴘ. ᴀғᴛᴇʀ ᴀᴅᴅɪɴɢ ʏᴏᴜʀ ʀᴇᴘᴏ ʀᴇsᴛᴀʀᴛ ᴀʟʟ ᴅʏɴᴏs
   
- Interface Of This Bot >>[click here](https://telegra.ph/file/f7c0a695536b02c6328c8.jpg)
   
 ## Features
 
@@ -38,12 +39,6 @@
 </a>
 </p>
 </details> 
-
-## Deploy
-You can deploy this bot anywhere.
-
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TG-V4MP1R3/Alexa-Bot )
-
 
 <details><summary>Deploy To VPS</summary>
 <p>
@@ -86,8 +81,8 @@ python3 bot.py
 • /broadcast - to broadcast a message to all users
 ```
 ## Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/DKBOTx/TovinoBotV3/blob/main/LICENSE)
+[![GNU Affero General Public License 3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
+Licensed under [GNU AGPL 3.0.](https://github.com/DKBOTx/TovinoBotV3/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*
 
 
