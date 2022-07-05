@@ -18,7 +18,7 @@ Pillow>=4.2.0
 string-extract
 domain-extract
 hashtags_extract
-pyrogram==1.3.6
+pyrogram==3.10.5
 tgcrypto==1.2.2
 pymongo[srv]==3.12.3
 motor==2.5.1
