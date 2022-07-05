@@ -52,8 +52,6 @@ python3 bot.py
 </p>
 </details>
 
-## GIB ME A STAR IF U LIKED IT
-
 ## Commands
 ```
 • /logs - to get the rescent errors
