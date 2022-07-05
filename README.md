@@ -52,6 +52,9 @@ python3 bot.py
 </p>
 </details>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+
+
 ## Commands
 ```
 • /logs - to get the rescent errors
