@@ -2,6 +2,7 @@
     "name": "A L E X A",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "logo": "https://telegra.ph/file/2eebed11a027a16bce098.jpg",
+    "stack": "container",
     "keywords": [
       "telegram",
       "auto-filter",
