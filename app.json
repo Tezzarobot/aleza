@@ -79,6 +79,11 @@
             "value": "Telegram_files",
             "required": false
         },
+        "DL_TIME":{
+            "description": "Time in seconds to delete the Messages. Defaults to 300 (5 minutes).",
+            "value": "300",
+            "required": false
+        },
         "CACHE_TIME": {
             "description": "The maximum amount of time in seconds that the result of the inline query may be cached on the server",
             "value": "300",
