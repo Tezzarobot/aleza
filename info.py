@@ -46,6 +46,7 @@ WARN_SETTINGS_ID = int(environ.get("WARN_SETTINGS_ID", "0"))
 TG_MAX_SELECT_LEN = 100
 
 # Others
+DL_TIME = int(environ.get('DL_TIME', '600'))
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'DKBOTxCHATS')
 P_TTTI_SHOW_OFF = bool((environ.get('P_TTTI_SHOW_OFF', False)))
