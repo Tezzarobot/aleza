@@ -38,7 +38,11 @@ async def start(client, message):
     if len(message.command) != 2:
         buttons = [[
             InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+          [
+            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about_menu'),
+            InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close')
         ]]
+
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
