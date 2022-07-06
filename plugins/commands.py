@@ -72,7 +72,9 @@ async def start(client, message):
             btn.append([InlineKeyboardButton("🔁 𝑹𝒆𝒇𝒓𝒆𝒔𝒉 𝑴𝒆 🔁", callback_data=f"checksub#{message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
-            text="**𝑱𝒐𝒊𝒏 𝑶𝒖𝒓 𝑴𝒐𝒗𝒊𝒆 𝑼𝒑𝒅𝒂𝒕𝒆𝒔 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 𝑨𝒏𝒅 𝑹𝒆𝒇𝒓𝒆𝒔𝒉 𝑴𝒆 𝒕𝒐 𝑮𝒆𝒕 𝑴𝒐𝒗𝒊𝒆 𝑭𝒊𝒍𝒆𝒔!**",
+            text="**JOIN MY UPDATE CHANNEL AND CLICK REFRESH TO GET MOVIE
+
+മൂവി ഫയൽ ലഭിക്കാൻ എന്റെ അപ്‌ഡേറ്റ് ചാനലിൽ ജോയിൻ ചെയ്തിട്ട് REFRESH BUTTON ക്ലിക്ക് ചെയ്യുക**",
             reply_markup=InlineKeyboardMarkup(btn),
             parse_mode="markdown"
             )
